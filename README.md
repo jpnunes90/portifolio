@@ -1,1 +1,1 @@
-Nesse repositorio será adicionado trabalhos demonstrando minha experiencia na área como pessoa desenvolvedora
+Meu portfólio. Aplicação criada para mostrar os projetos que irei desenvolver durante minha carreira.
