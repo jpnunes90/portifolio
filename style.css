@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+/* <tags> */
+
+body{
+  
+}
+
+head{
+
+}
+
+main{
+
+}
+
+footer{
+
+}
+
+/* #class */
+
+
+
+/* .id */
+
+.header{
+  background-color: rgb(10, 10, 105);
+}
