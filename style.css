@@ -1,4 +1,4 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -7,28 +7,34 @@
 
 /* <tags> */
 
-body{
-  
+body {
+  background-color: rgb(80, 80, 255);
 }
 
-head{
-
+head {
+ border: 1px solid black;
 }
 
-main{
-
+main {
+  border: 1px solid black;
 }
 
-footer{
-
+footer {
+  border: 1px solid black;
 }
 
-/* #class */
+/* .class */
 
-
-
-/* .id */
-
-.header{
-  background-color: rgb(10, 10, 105);
+.linkedin-logo {
+  width: 50px;
 }
+
+.fullwindow {
+  width: 100%;
+}
+
+.header {
+  background-color: rgb(2, 2, 100);
+}
+
+/* #id */
